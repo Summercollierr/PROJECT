@@ -6,3 +6,6 @@ The final goal of this project is to be able to couple the geochemical analysis 
 
 
 To work this notebook, you will need to download two files, Raw_data2 and LOI_data. 
+Variables include core location, core type, core sample depth, grain size (um), pyrite (mg S/g dry weight), and LOI (loss on ignition).  
+
+Measuring pyrite and sediment grain size helps us understand the processes that influence long-term carbon sequestration in SAV sediments. Pyrite (FeS₂) formation is associated with microbial sulfate reduction, which contributes to alkalinity production and can support inorganic carbon storage. Grain size influences sediment permeability, organic matter retention, and the availability of reactive iron needed for pyrite formation. Together, these measurements help determine how sediment characteristics and salinity influence carbon burial and long-term carbon storage across the Chesapeake Bay salinity gradient.
